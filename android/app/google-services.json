@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184295264037",
+    "project_id": "supermarket-1-2024",
+    "storage_bucket": "supermarket-1-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184295264037:android:d4561efd69a314f3dd94cc",
+        "android_client_info": {
+          "package_name": "com.example.supermarket_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgLO1hf7oelsW5sUBs5_rVGa4xmZ6vHPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
